@@ -83,6 +83,7 @@
 .SessaoInformacoes {
     width: 100%;
     padding: 30px;
+    text-align: left;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
