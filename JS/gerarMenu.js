@@ -9,8 +9,8 @@ header.innerHTML = `
                 <nav>
                     <ul>
                         <li><a href="index.html">INÍCIO</a></li>
-                        <li><a href="Paginas/">TECNOLOGIAS</a></li>
-                        <li><a href="Paginas/">PROJETOS</a></li>
+                        <li><a href="Paginas/tecnologias.html">TECNOLOGIAS</a></li>
+                        <li><a href="Paginas/projetos.html">PROJETOS</a></li>
                         <li><a href="Paginas/">AÇÕES</a></li>
                     </ul>
                 </nav>
