@@ -93,7 +93,8 @@ main{
 }
 
 .botoesMenu button{
-    width: 100px;
+    min-width: 100px;
+    max-width: 250px;
     height: 40px;
     border: none;
     border-radius: 10px;
@@ -105,6 +106,18 @@ main{
 .botoesMenu button:hover{
     transform: translateY(-1px);
     background-color: rgb(9, 133, 9);
+}
+
+@media (max-width: 850px){
+    header{
+        display: flex;
+        justify-content: center;
+        
+    }
+   .logo{
+    display: none;
+   }
+   
 }
 
 
